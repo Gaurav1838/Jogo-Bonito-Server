@@ -1,5 +1,5 @@
 import express from "express";
-import Jersey from "../models/Jersey.js";
+import Jersey from "../models/jersey.js";
 
 const router = express.Router();
 
