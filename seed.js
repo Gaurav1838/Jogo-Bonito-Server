@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 import dotenv from "dotenv";
-import Jersey from "./models/Jersey.js";
+import Jersey from "./models/jersey.js";
 
 dotenv.config();
 
