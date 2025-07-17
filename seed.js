@@ -10,7 +10,7 @@ const sampleJerseys = [
     club: "Real Madrid",
     year: "2024-25",
     price: 1699,
-    image: "assets/rm-24-25-home.jpeg"
+    image: "rm-24-25-home.jpeg"
   },
   {
     name: "Barcelona Away Kit",
