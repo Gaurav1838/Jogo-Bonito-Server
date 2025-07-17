@@ -17,77 +17,77 @@ const sampleJerseys = [
     club: "Barcelona",
     year: "2024-25",
     price: 1699,
-    image: "assets/barca-24-25-away.jpeg"
+    image: "barca-24-25-away.jpeg"
   },
   {
     name: "Manchester United Home Kit",
     club: "Manchester United",
     year: "2021-22",
     price: 1599,
-    image: "assets/manu-21-22-home.jpeg"
+    image: "manu-21-22-home.jpeg"
   },
   {
     name: "Liverpool Home Kit",
     club: "Liverpool",
     year: "2024-25",
     price: 1699,
-    image: "assets/liver-24-25-home.jpeg"
+    image: "liver-24-25-home.jpeg"
   },
   {
     name: "AC Milan Home Kit",
     club: "AC Milan",
     year: "2013-14",
     price: 1999,
-    image: "assets/ac-13-14-home.jpeg"
+    image: "ac-13-14-home.jpeg"
   },
   {
     name: "Juventus Home Kit",
     club: "Juventus",
     year: "2023-24",
     price: 1899,
-    image: "assets/juve-23-24-home.jpeg"
+    image: "juve-23-24-home.jpeg"
   },
   {
     name: "PSG Home Kit",
     club: "Paris Saint-Germain",
     year: "2021-22",
     price: 1799,
-    image: "assets/psg-21-22-home.jpeg"
+    image: "psg-21-22-home.jpeg"
   },
   {
     name: "Real Madrid Away Kit",
     club: "Real Madrid",
     year: "2016-17",
     price: 1999,
-    image: "assets/rm-2016-17-away.jpeg"
+    image: "rm-2016-17-away.jpeg"
   },
   {
     name: "Manchester United Retro Kit",
     club: "Manchester United",
     year: "2007-08",
     price: 1999,
-    image: "assets/manu-07-08-home.jpeg"
+    image: "manu-07-08-home.jpeg"
   },
   {
     name: "Argentina World Cup Kit",
     club: "Argentina",
     year: "2022",
     price: 1599,
-    image: "assets/arg-2022-wc.jpeg"
+    image: "arg-2022-wc.jpeg"
   },
   {
     name: "Germany Euro Kit",
     club: "Germany",
     year: "2024",
     price: 1599,
-    image: "assets/ger-euro-24.jpeg"
+    image: "ger-euro-24.jpeg"
   },
   {
     name: "Brazil World Cup Kit",
     club: "Brazil",
     year: "2022",
     price: 1599,
-    image: "assets/brazil-22-wc.jpeg"
+    image: "brazil-22-wc.jpeg"
   }
 
 
