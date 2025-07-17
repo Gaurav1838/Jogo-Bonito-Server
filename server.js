@@ -14,7 +14,7 @@ app.use(cors());
 app.use(express.json());
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-app.use('/assets', express.static(path.join(__dirname, 'assets')));
+app.use('/assets', express.static(path.join(__dirname, 'public/assets')));
 app.use("/api/orders", orderRoutes);
 app.use("/api/contact", contactRoutes);
 app.use('/api/products', jerseyRoutes);
